@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
 }
+
 body{
    background-color: darkorchid;
    font-size: medium;
@@ -19,7 +20,7 @@ a{
 }
 a:hover{
     cursor: pointer;
-    background: green;
+    background: blueviolet;
     color: white;
 }
 #title{
@@ -35,3 +36,4 @@ img{
     display: block;
     margin: 0 auto;
 }
+
